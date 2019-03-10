@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo Blog</title>
+    <link>http://thebluebayou.github.io/tags/</link>
+    <description>Recent content in Tags on Hugo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Feb 2019 21:01:54 +0100</lastBuildDate>
+    
+	<atom:link href="http://thebluebayou.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cycling</title>
+      <link>http://thebluebayou.github.io/tags/cycling/</link>
+      <pubDate>Fri, 08 Feb 2019 21:01:54 +0100</pubDate>
+      
+      <guid>http://thebluebayou.github.io/tags/cycling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyclo Cross</title>
+      <link>http://thebluebayou.github.io/tags/cyclo-cross/</link>
+      <pubDate>Sat, 10 Oct 2009 15:20:04 +0000</pubDate>
+      
+      <guid>http://thebluebayou.github.io/tags/cyclo-cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General</title>
+      <link>http://thebluebayou.github.io/tags/general/</link>
+      <pubDate>Sat, 25 Dec 2010 22:42:34 +0000</pubDate>
+      
+      <guid>http://thebluebayou.github.io/tags/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>http://thebluebayou.github.io/tags/life/</link>
+      <pubDate>Wed, 30 Jan 2019 22:49:01 +0100</pubDate>
+      
+      <guid>http://thebluebayou.github.io/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mtb</title>
+      <link>http://thebluebayou.github.io/tags/mtb/</link>
+      <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://thebluebayou.github.io/tags/mtb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>http://thebluebayou.github.io/tags/photography/</link>
+      <pubDate>Mon, 30 Aug 2010 15:57:50 +0000</pubDate>
+      
+      <guid>http://thebluebayou.github.io/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poetry</title>
+      <link>http://thebluebayou.github.io/tags/poetry/</link>
+      <pubDate>Wed, 30 Jan 2019 23:00:21 +0100</pubDate>
+      
+      <guid>http://thebluebayou.github.io/tags/poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Race</title>
+      <link>http://thebluebayou.github.io/tags/race/</link>
+      <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://thebluebayou.github.io/tags/race/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road Race</title>
+      <link>http://thebluebayou.github.io/tags/road-race/</link>
+      <pubDate>Sun, 23 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://thebluebayou.github.io/tags/road-race/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time</title>
+      <link>http://thebluebayou.github.io/tags/time/</link>
+      <pubDate>Wed, 30 Jan 2019 22:58:59 +0100</pubDate>
+      
+      <guid>http://thebluebayou.github.io/tags/time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>http://thebluebayou.github.io/tags/training/</link>
+      <pubDate>Mon, 07 Sep 2009 21:04:44 +0000</pubDate>
+      
+      <guid>http://thebluebayou.github.io/tags/training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>http://thebluebayou.github.io/tags/travel/</link>
+      <pubDate>Sun, 10 Oct 2010 15:54:01 +0000</pubDate>
+      
+      <guid>http://thebluebayou.github.io/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trees</title>
+      <link>http://thebluebayou.github.io/tags/trees/</link>
+      <pubDate>Wed, 30 Jan 2019 23:00:21 +0100</pubDate>
+      
+      <guid>http://thebluebayou.github.io/tags/trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walk</title>
+      <link>http://thebluebayou.github.io/tags/walk/</link>
+      <pubDate>Mon, 05 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://thebluebayou.github.io/tags/walk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walking</title>
+      <link>http://thebluebayou.github.io/tags/walking/</link>
+      <pubDate>Tue, 21 Dec 2010 22:27:21 +0000</pubDate>
+      
+      <guid>http://thebluebayou.github.io/tags/walking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

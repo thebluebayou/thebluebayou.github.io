@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photography on Hugo Blog</title>
+    <link>http://thebluebayou.github.io/tags/photography/</link>
+    <description>Recent content in Photography on Hugo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Aug 2010 15:57:50 +0000</lastBuildDate>
+    
+	<atom:link href="http://thebluebayou.github.io/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>French Beans</title>
+      <link>http://thebluebayou.github.io/post/2010/2010-08-30-french-beans/</link>
+      <pubDate>Mon, 30 Aug 2010 15:57:50 +0000</pubDate>
+      
+      <guid>http://thebluebayou.github.io/post/2010/2010-08-30-french-beans/</guid>
+      <description>Our first French Beans and loads more on the way.</description>
+    </item>
+    
+  </channel>
+</rss>
