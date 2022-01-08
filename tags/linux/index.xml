@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linux on Keith&#39;s Diary and Other Stuff</title>
+    <title>linux on Keith&#39;s Diary and Other Stuff</title>
     <link>http://thebluebayou.github.io/tags/linux/</link>
-    <description>Recent content in Linux on Keith&#39;s Diary and Other Stuff</description>
+    <description>Recent content in linux on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Aug 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://thebluebayou.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 20 Aug 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://thebluebayou.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Improve Debian Fonts</title>
       <link>http://thebluebayou.github.io/2013-08-20-improve-debian-fonts/</link>
@@ -19,7 +15,7 @@
       <guid>http://thebluebayou.github.io/2013-08-20-improve-debian-fonts/</guid>
       <description>I put the following into ~/.fonts.conf, restarted Xorg, and now everything looks good.
 {{ more }}
-{% highlight html %} &amp;lt;?xml version=&amp;ldquo;1.0&amp;rdquo;?&amp;gt; &amp;lt;!DOCTYPE fontconfig SYSTEM &amp;ldquo;fonts.dtd&amp;rdquo;&amp;gt;  true  true  rgb  false  hintslight  lcddefault    {% endhighlight %}</description>
+{% highlight html %}</description>
     </item>
     
     <item>
@@ -39,9 +35,9 @@
       <pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2013-07-29-find-and-replace/</guid>
-      <description>{% highlight bash %} find . -name &amp;lsquo;*.html&amp;rsquo; | xargs perl -pi -e &amp;rsquo;s/oldtext/newtext/g&amp;rsquo; {% endhighlight %}
+      <description>{% highlight bash %} find . -name &amp;lsquo;*.html&amp;rsquo; | xargs perl -pi -e &amp;rsquo;s/oldtext/newtext/g&#39; {% endhighlight %}
 \n adds a new line
-finds any text and replaces it with {% highlight bash %} find . -name &amp;lsquo;*.md&amp;rsquo; | xargs perl -pi -e &amp;rsquo;s/any text//g&amp;rsquo; {% endhighlight %} finds any text and replaces it with a new line and {{ more }} (\n being new line)
+finds any text and replaces it with {% highlight bash %} find . -name &amp;lsquo;*.md&amp;rsquo; | xargs perl -pi -e &amp;rsquo;s/any text//g&#39; {% endhighlight %} finds any text and replaces it with a new line and {{ more }} (\n being new line)
 {% highlight bash %} find .</description>
     </item>
     
@@ -76,7 +72,7 @@ This makes it much easier to find what you&amp;rsquo;re looking for. To make thi
       
       <guid>http://thebluebayou.github.io/2012-07-22-remove-spaces-in-file-names/</guid>
       <description>Removes spaces in file names and replaces them with
-{% highlight bash html %} for file in ; do mv &amp;ldquo;$file&amp;rdquo; echo $file | sed -e &#39;s/ */-/g&#39; -e &#39;s/_-_/-/g&#39;; done {% endhighlight %} or {% highlight bash html %} find . -depth -name &amp;lsquo; *&amp;rsquo; | while IFS= read -r f ; do mv -i &amp;ldquo;$f&amp;rdquo; &amp;ldquo;$(dirname &amp;ldquo;$f&amp;rdquo;)/$(basename &amp;ldquo;$f&amp;rdquo;|tr &amp;lsquo; &amp;rsquo; _)&amp;rdquo; ; done {% endhighlight %}</description>
+{% highlight bash html %} for file in ; do mv &amp;ldquo;$file&amp;rdquo; echo $file | sed -e &#39;s/ */-/g&#39; -e &#39;s/_-_/-/g&#39;; done {% endhighlight %} or {% highlight bash html %} find . -depth -name &amp;lsquo; *&amp;rsquo; | while IFS= read -r f ; do mv -i &amp;ldquo;$f&amp;rdquo; &amp;ldquo;$(dirname &amp;ldquo;$f&amp;rdquo;)/$(basename &amp;ldquo;$f&amp;rdquo;|tr &#39; &#39; _)&amp;rdquo; ; done {% endhighlight %}</description>
     </item>
     
     <item>
@@ -95,7 +91,8 @@ This makes it much easier to find what you&amp;rsquo;re looking for. To make thi
       <pubDate>Mon, 11 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2012-06-11-reloading-the-mutt-configuration-file/</guid>
-      <description>I find it a bit annoying that I have to re-enter my password twice every time I (re-)start mutt when I want to update my configuration file. Well, it appears I don&amp;rsquo;t need to be doing restarting mutt. The MuttWiki describes a way to re-load the configuration after mutt is running. Type the following into mutt after you&amp;rsquo;ve changed your muttrc file:  :source /path/to/your/muttrc Note that shell expansions may not work&amp;mdash;you should spell out the full path.</description>
+      <description>I find it a bit annoying that I have to re-enter my password twice every time I (re-)start mutt when I want to update my configuration file. Well, it appears I don&amp;rsquo;t need to be doing restarting mutt. The MuttWiki describes a way to re-load the configuration after mutt is running. Type the following into mutt after you&amp;rsquo;ve changed your muttrc file:
+:source /path/to/your/muttrc Note that shell expansions may not work&amp;mdash;you should spell out the full path.</description>
     </item>
     
     <item>
@@ -104,7 +101,7 @@ This makes it much easier to find what you&amp;rsquo;re looking for. To make thi
       <pubDate>Thu, 08 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2012-03-08-portable-emacs/</guid>
-      <description>While reading gmane.emacs.help I came accross this post where somebody asked how he could make a portable app out of Emacs&amp;rsquo; Windows version.
+      <description>While reading gmane.emacs.help I came accross this post where somebody asked how he could make a portable app out of Emacs&#39; Windows version.
 So since I&amp;rsquo;m still at my internship (where they use Windows) and just recently obtained an iAudio X5L portable media player which behaves like an USB2 harddisk to the OS I wondered if I could manage to make Emacs portable.
 Short version: I could, the &amp;ldquo;hardest&amp;rdquo; part was in fact not even Emacs related, but my sheer lack of knowledge about Windows batch script.</description>
     </item>
@@ -116,7 +113,7 @@ Short version: I could, the &amp;ldquo;hardest&amp;rdquo; part was in fact not e
       
       <guid>http://thebluebayou.github.io/2012-02-22-print-from-mutt/</guid>
       <description>To print from Mutt install enscript and add the following lines to muttrc
-{% highlight bash %} set print=&amp;ldquo;yes&amp;rdquo; set print_split set print_command=&amp;ldquo;enscript &amp;ndash;portrait &amp;ndash;header=&amp;lsquo;%n@%M:%d|%F %C|Page ($%/$=)&amp;rsquo; &amp;ndash;media=A4 &amp;ndash;silent &amp;ndash;encoding=88591 &amp;ndash;pretty-print=mail &amp;ndash;printer=HP-Deskjet-USB&amp;rdquo; set print_decode {% endhighlight %}</description>
+{% highlight bash %} set print=&amp;ldquo;yes&amp;rdquo; set print_split set print_command=&amp;ldquo;enscript &amp;ndash;portrait &amp;ndash;header=&#39;%n@%M:%d|%F %C|Page ($%/$=)&#39; &amp;ndash;media=A4 &amp;ndash;silent &amp;ndash;encoding=88591 &amp;ndash;pretty-print=mail &amp;ndash;printer=HP-Deskjet-USB&amp;rdquo; set print_decode {% endhighlight %}</description>
     </item>
     
     <item>
@@ -156,7 +153,7 @@ Minute Hour Day of Month Month Day of Week Command (0-59) (0-23) (1-31) (1-12 or
       <guid>http://thebluebayou.github.io/2012-01-18-kernel-upgrade/</guid>
       <description>emerge -P gentoo-sources to remove oldest kernel before installing latest kernel
 In most cases, temporary files used during compilation will still remain under the appropriate source directory under /usr/src. It is safe to remove these using rm.
-You can also safely delete any modules that were used by this kernel. This can be done by removing the appropriate directories under /lib/modules/ that relate to the kernel versions you are removing. Be careful not to delete modules belonging to kernels that you still use!</description>
+You can also safely delete any modules that were used by this kernel. This can be done by removing the appropriate directories under /lib/modules/that relate to the kernel versions you are removing. Be careful not to delete modules belonging to kernels that you still use!</description>
     </item>
     
   </channel>

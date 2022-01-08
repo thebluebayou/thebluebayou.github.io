@@ -3,7 +3,7 @@
   <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="generator" content="Hugo 0.54.0" />
+  <meta name="generator" content="Hugo 0.89.4" />
 <link rel="stylesheet" href="/css/style.css" />
 <link rel="stylesheet" href="/css/fonts.css" />
   
@@ -46,33 +46,24 @@
 
 <br><br>
 <p>{% highlight bash %}
-find . -name &lsquo;*.html&rsquo; | xargs perl -pi -e &rsquo;s/oldtext/newtext/g&rsquo;
+find . -name &lsquo;*.html&rsquo; | xargs perl -pi -e &rsquo;s/oldtext/newtext/g'
 {% endhighlight %}</p>
-
 <p>\n adds a new line</p>
-
-<p>finds  any text and replaces it with <!--start excerpt--></p>
-
+<p>finds  any text and replaces it with <!-- raw HTML omitted --></p>
 <p>{% highlight bash %}
-find . -name &lsquo;*.md&rsquo; | xargs perl -pi -e &rsquo;s/any text/<!--start excerpt--> /g&rsquo;
+find . -name &lsquo;*.md&rsquo; | xargs perl -pi -e &rsquo;s/any text/<!-- raw HTML omitted --> /g'
 {% endhighlight %}
 finds any text and replaces it with a new line and {{ more }}  (\n being new line)</p>
-
 <p>{% highlight bash %}
-find . -name &lsquo;*.md&rsquo; | xargs perl -pi -e &rsquo;s/any text/\n{{ more }} /g&rsquo;
+find . -name &lsquo;*.md&rsquo; | xargs perl -pi -e &rsquo;s/any text/\n{{ more }} /g'
 {% endhighlight %}</p>
-
 <p>{% highlight bash %}
 find . -type f -print0 | xargs -0 sed -i /KeyWord/d
 {% endhighlight %}
 <strong>Deletes line containing KEYWORD</strong></p>
-
 <p>First command find finds all the standard files (not directories, or pipes, or etc.), prints them separated by \0 (so filenames can contains spaces, newlines, etc.).</p>
-
 <p>Second command xargs reads the output of find, grabs a list based on a separator (\0 because of -0), invokes sed -i [&hellip;] with added parameters from the list (sed will be called multiple times if there are a lot of files, as the maximum length of the parameters is limited in each invocation).</p>
-
 <p>The sed command modifies in-place (-i).</p>
-
 <p>As to /KeyWord/d, it&rsquo;ll delete lines containing the regular expression KeyWord</p>
 
 

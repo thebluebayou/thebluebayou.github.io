@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computing on Keith&#39;s Diary and Other Stuff</title>
+    <title>computing on Keith&#39;s Diary and Other Stuff</title>
     <link>http://thebluebayou.github.io/tags/computing/</link>
-    <description>Recent content in Computing on Keith&#39;s Diary and Other Stuff</description>
+    <description>Recent content in computing on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Mar 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://thebluebayou.github.io/tags/computing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 07 Mar 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://thebluebayou.github.io/tags/computing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Screen Grab</title>
       <link>http://thebluebayou.github.io/2014-03-07-screen-grab/</link>
@@ -49,7 +45,7 @@ This points a symbolic link &amp;ldquo;./logs&amp;rdquo; to &amp;ldquo;/usr/loca
       
       <guid>http://thebluebayou.github.io/2013-06-23-vim-indentation/</guid>
       <description>Ctrl-P toggles paste mode when in Insert mode do not include the two /
-{% highlight bash html %} set pastetoggle=/ &amp;ldquo;Ctrl-P toggles paste mode when in Insert&amp;rdquo; {% endhighlight %}
+{% highlight bash html %} set pastetoggle=/&amp;ldquo;Ctrl-P toggles paste mode when in Insert&amp;rdquo; {% endhighlight %}
 {% highlight bash html %} :set paste {% endhighlight %}
 {% highlight bash html %} :set nopaste {% endhighlight %}</description>
     </item>
@@ -60,7 +56,7 @@ This points a symbolic link &amp;ldquo;./logs&amp;rdquo; to &amp;ldquo;/usr/loca
       <pubDate>Sun, 12 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2013-05-12-flashed-flos-phone-with-a-cyanogenmod-rom/</guid>
-      <description>After a huge amount of fannying around Flo finally decided to to install a new rom on her HTC Wildfire, we followed the Instructions on this web site wiki.cyanogenmod.org and everything went fairly smoothly. The main reason she wanted to do this was the orignal rom was full of google apps which she didn&amp;rsquo;t use, and the phone was running out of space so she could not install Facebook, and google refuse to allow you to remove their apps.</description>
+      <description>After a huge amount of fannying around Flo finally decided to to install a new rom on her HTC Wildfire, we followed the Instructions on this web site wiki.cyanogenmod.organd everything went fairly smoothly. The main reason she wanted to do this was the orignal rom was full of google apps which she didn&amp;rsquo;t use, and the phone was running out of space so she could not install Facebook, and google refuse to allow you to remove their apps.</description>
     </item>
     
     <item>
@@ -73,7 +69,7 @@ This points a symbolic link &amp;ldquo;./logs&amp;rdquo; to &amp;ldquo;/usr/loca
 sshfs to mount a remote dir locally
 {{ more }}
 {% highlight bash html linenos %} rsync -azvu &amp;ndash;rsh=&amp;lsquo;ssh -p32&amp;rsquo; basedir/ server2:destdir/ {% endhighlight %}
-{% highlight bash html linenos %} scp -P32  server2:destdir/ {% endhighlight %}
+{% highlight bash html linenos %} scp -P32 server2:destdir/ {% endhighlight %}
 {% highlight bash linenos %} sshfs @:fusermount -u mountpoint {% endhighlight %}</description>
     </item>
     
@@ -116,7 +112,7 @@ I have been hearing a strange noise from kzone, so I finally ran smartctl on it 
       
       <guid>http://thebluebayou.github.io/2012-07-22-remove-spaces-in-file-names/</guid>
       <description>Removes spaces in file names and replaces them with
-{% highlight bash html %} for file in ; do mv &amp;ldquo;$file&amp;rdquo; echo $file | sed -e &#39;s/ */-/g&#39; -e &#39;s/_-_/-/g&#39;; done {% endhighlight %} or {% highlight bash html %} find . -depth -name &amp;lsquo; *&amp;rsquo; | while IFS= read -r f ; do mv -i &amp;ldquo;$f&amp;rdquo; &amp;ldquo;$(dirname &amp;ldquo;$f&amp;rdquo;)/$(basename &amp;ldquo;$f&amp;rdquo;|tr &amp;lsquo; &amp;rsquo; _)&amp;rdquo; ; done {% endhighlight %}</description>
+{% highlight bash html %} for file in ; do mv &amp;ldquo;$file&amp;rdquo; echo $file | sed -e &#39;s/ */-/g&#39; -e &#39;s/_-_/-/g&#39;; done {% endhighlight %} or {% highlight bash html %} find . -depth -name &amp;lsquo; *&amp;rsquo; | while IFS= read -r f ; do mv -i &amp;ldquo;$f&amp;rdquo; &amp;ldquo;$(dirname &amp;ldquo;$f&amp;rdquo;)/$(basename &amp;ldquo;$f&amp;rdquo;|tr &#39; &#39; _)&amp;rdquo; ; done {% endhighlight %}</description>
     </item>
     
     <item>
@@ -135,7 +131,8 @@ I have been hearing a strange noise from kzone, so I finally ran smartctl on it 
       <pubDate>Mon, 11 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2012-06-11-reloading-the-mutt-configuration-file/</guid>
-      <description>I find it a bit annoying that I have to re-enter my password twice every time I (re-)start mutt when I want to update my configuration file. Well, it appears I don&amp;rsquo;t need to be doing restarting mutt. The MuttWiki describes a way to re-load the configuration after mutt is running. Type the following into mutt after you&amp;rsquo;ve changed your muttrc file:  :source /path/to/your/muttrc Note that shell expansions may not work&amp;mdash;you should spell out the full path.</description>
+      <description>I find it a bit annoying that I have to re-enter my password twice every time I (re-)start mutt when I want to update my configuration file. Well, it appears I don&amp;rsquo;t need to be doing restarting mutt. The MuttWiki describes a way to re-load the configuration after mutt is running. Type the following into mutt after you&amp;rsquo;ve changed your muttrc file:
+:source /path/to/your/muttrc Note that shell expansions may not work&amp;mdash;you should spell out the full path.</description>
     </item>
     
     <item>

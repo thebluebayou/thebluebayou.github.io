@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keith&#39;s Diary and Other Stuff</title>
@@ -6,11 +6,7 @@
     <description>Recent content on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://thebluebayou.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://thebluebayou.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books by Author</title>
       <link>http://thebluebayou.github.io/collection/author/</link>
@@ -47,8 +43,7 @@ Big Blue Box
       
       <guid>http://thebluebayou.github.io/2019-02-08-bugarra/</guid>
       <description>&lt;p&gt;Took Lotti to the river in Bugarra for a walk and hopefully a swim.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://thebluebayou.github.io/images/2019/2019-02-08-bugarra.jpg&#34; alt=&#34;Contemplateing a Swim&#34; /&gt; &lt;strong&gt;Contemplateing a Swim&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;http://thebluebayou.github.io/images/2019/2019-02-08-bugarra.jpg&#34; alt=&#34;Contemplateing a Swim&#34;&gt; &lt;strong&gt;Contemplateing a Swim&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -66,7 +61,7 @@ Big Blue Box
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2019-01-27-btt-xxiii-marcha-montroy/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://thebluebayou.github.io/images/2019/2019-01-27-BTT-XXIII-Marcha-Montroy.jpg&#34; alt=&#34;BTT - XXIII Marcha Montroy&#34; /&gt; &lt;strong&gt;BTT - XXIII Marcha Montroy&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://thebluebayou.github.io/images/2019/2019-01-27-BTT-XXIII-Marcha-Montroy.jpg&#34; alt=&#34;BTT - XXIII Marcha Montroy&#34;&gt; &lt;strong&gt;BTT - XXIII Marcha Montroy&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -75,7 +70,7 @@ Big Blue Box
       <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2019-01-21-lunar-eclipse-blood-moon/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://thebluebayou.github.io/images/2019/2019-01-21-lunar-eclipse-1.jpg&#34; alt=&#34;Blood Moon&#34; /&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://thebluebayou.github.io/images/2019/2019-01-21-lunar-eclipse-1.jpg&#34; alt=&#34;Blood Moon&#34;&gt;
 &lt;strong&gt;Blood Moon&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
@@ -85,7 +80,7 @@ Big Blue Box
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2019-01-19-terrago/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://thebluebayou.github.io/images/2019/2019-01-19-terrago.jpg&#34; alt=&#34;Terrago&#34; /&gt; &lt;strong&gt;First Brief Spin On The Terrago&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://thebluebayou.github.io/images/2019/2019-01-19-terrago.jpg&#34; alt=&#34;Terrago&#34;&gt; &lt;strong&gt;First Brief Spin On The Terrago&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -94,7 +89,7 @@ Big Blue Box
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2018-12-15-ciclo-cross-ciudad-de-xativa/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://thebluebayou.github.io/images/2018/ciclo-cross-ciudad-de-xativa-aida-nuno.jpg&#34; alt=&#34;&#34; /&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://thebluebayou.github.io/images/2018/ciclo-cross-ciudad-de-xativa-aida-nuno.jpg&#34; alt=&#34;&#34;&gt;
 &lt;strong&gt;Aida Nuño Race Winner and Current Spanish Champion&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
@@ -131,7 +126,7 @@ Big Blue Box
       <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2018-10-13-lronman-kona/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://thebluebayou.github.io/images/2018/2018-10-13-lronman-kona.png&#34; alt=&#34;Ironman Kona&#34; /&gt; &lt;strong&gt;Ironman Kona&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://thebluebayou.github.io/images/2018/2018-10-13-lronman-kona.png&#34; alt=&#34;Ironman Kona&#34;&gt; &lt;strong&gt;Ironman Kona&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -415,7 +410,7 @@ Next we checked into the hotel and had dinner with Harry, Katherine, Frank and C
       <guid>http://thebluebayou.github.io/2018-01-24-london/</guid>
       <description>Explored some of Chinatown on our way to tonight&amp;rsquo;s show in Eastcastle Street if we can find it.
 China Town {{ more }}
-Gibson Guitar Showrooms #### This was the venue for the evening event, hosted by Lesley Anne Jones with “whispering” Bob Harris and Jenny Boyd (famous for being sister of Patty who was married to George Harrison and having been to India with the Beatles…also being married to Mick Fleetwood – twice?</description>
+Gibson Guitar Showrooms This was the venue for the evening event, hosted by Lesley Anne Jones with “whispering” Bob Harris and Jenny Boyd (famous for being sister of Patty who was married to George Harrison and having been to India with the Beatles…also being married to Mick Fleetwood – twice?</description>
     </item>
     
     <item>
@@ -562,7 +557,7 @@ Flo got a walking map of the area around Asco from the tourist office. One of th
       <guid>http://thebluebayou.github.io/2017-08-22-la-vuelta-a-espana/</guid>
       <description>La Vuelta a Espana 22 Aug Flo liked this shoe and sock combination
 {{ more }}
-The King of the hills was in a place called Belltall which was about 1 1&amp;frasl;2 hours away. We arrived in plenty of time and after finding the top of the climb and a good place to park we where then able to have lunch in the town, in a Hostel Cal Feliute food was good and the service fast even though the place was packed due to the race passing through.</description>
+The King of the hills was in a place called Belltall which was about 1 1/2 hours away. We arrived in plenty of time and after finding the top of the climb and a good place to park we where then able to have lunch in the town, in a Hostel Cal Feliute food was good and the service fast even though the place was packed due to the race passing through.</description>
     </item>
     
     <item>
@@ -769,7 +764,8 @@ This Old House</description>
       
       <guid>http://thebluebayou.github.io/2016-10-02-mccool-hikers/</guid>
       <description>McCool Hikers Day 1 After meeting G&amp;amp;H on Friday evening we stayed with Judi and did some catching up.
-Sat morning was dull windy and very mild 18c at 07:30, after breakfast we headed into Phoenix park heavy traffic and going the wrong way meant we where late and missed the group arrival, however after much searching we gave up and went and watched the start of the race.</description>
+Sat morning was dull windy and very mild 18c at 07:30, after breakfast we headed into Phoenix park heavy traffic and going the wrong way meant we where late and missed the group arrival, however after much searching we gave up and went and watched the start of the race.
+As the rain started on cue at 09.</description>
     </item>
     
     <item>
@@ -1080,7 +1076,7 @@ Easy drive to Vannes stopping for a coffee on the way, tonights stop is Le Conte
       <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2016-04-26-long-day-on-the-road-to-chinon/</guid>
-      <description>Up early this morning and on the road straight after breakfast, a bit damp so no point in hanging around. Heavy rain and heavy traffic so we diverted off the main road and took a slightly longer route but much nicer arrived in Chinon 18:30. {{ more }} Usual routine find optimum place for Blu then into Chinon for a quick look and something to eat. Found a nice Restaurant which accepted Lotti and we enjoyed a lovely meal and 1&amp;frasl;2 bottle of wine.</description>
+      <description>Up early this morning and on the road straight after breakfast, a bit damp so no point in hanging around. Heavy rain and heavy traffic so we diverted off the main road and took a slightly longer route but much nicer arrived in Chinon 18:30. {{ more }} Usual routine find optimum place for Blu then into Chinon for a quick look and something to eat. Found a nice Restaurant which accepted Lotti and we enjoyed a lovely meal and 1/2 bottle of wine.</description>
     </item>
     
     <item>
@@ -2044,7 +2040,7 @@ We even went as far as having another barbie this afternoon just because we coul
       <guid>http://thebluebayou.github.io/2013-08-20-improve-debian-fonts/</guid>
       <description>I put the following into ~/.fonts.conf, restarted Xorg, and now everything looks good.
 {{ more }}
-{% highlight html %} &amp;lt;?xml version=&amp;ldquo;1.0&amp;rdquo;?&amp;gt; &amp;lt;!DOCTYPE fontconfig SYSTEM &amp;ldquo;fonts.dtd&amp;rdquo;&amp;gt;  true  true  rgb  false  hintslight  lcddefault    {% endhighlight %}</description>
+{% highlight html %}</description>
     </item>
     
     <item>
@@ -2113,9 +2109,9 @@ Four races where on the cards, Woman and over 70s, over 50s, over 40s, and up to
       <pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2013-07-29-find-and-replace/</guid>
-      <description>{% highlight bash %} find . -name &amp;lsquo;*.html&amp;rsquo; | xargs perl -pi -e &amp;rsquo;s/oldtext/newtext/g&amp;rsquo; {% endhighlight %}
+      <description>{% highlight bash %} find . -name &amp;lsquo;*.html&amp;rsquo; | xargs perl -pi -e &amp;rsquo;s/oldtext/newtext/g&#39; {% endhighlight %}
 \n adds a new line
-finds any text and replaces it with {% highlight bash %} find . -name &amp;lsquo;*.md&amp;rsquo; | xargs perl -pi -e &amp;rsquo;s/any text//g&amp;rsquo; {% endhighlight %} finds any text and replaces it with a new line and {{ more }} (\n being new line)
+finds any text and replaces it with {% highlight bash %} find . -name &amp;lsquo;*.md&amp;rsquo; | xargs perl -pi -e &amp;rsquo;s/any text//g&#39; {% endhighlight %} finds any text and replaces it with a new line and {{ more }} (\n being new line)
 {% highlight bash %} find .</description>
     </item>
     
@@ -2201,7 +2197,7 @@ Naturally the school never maintain any thing so it is up to us to cut the trees
       
       <guid>http://thebluebayou.github.io/2013-06-23-vim-indentation/</guid>
       <description>Ctrl-P toggles paste mode when in Insert mode do not include the two /
-{% highlight bash html %} set pastetoggle=/ &amp;ldquo;Ctrl-P toggles paste mode when in Insert&amp;rdquo; {% endhighlight %}
+{% highlight bash html %} set pastetoggle=/&amp;ldquo;Ctrl-P toggles paste mode when in Insert&amp;rdquo; {% endhighlight %}
 {% highlight bash html %} :set paste {% endhighlight %}
 {% highlight bash html %} :set nopaste {% endhighlight %}</description>
     </item>
@@ -2234,7 +2230,7 @@ Naturally the school never maintain any thing so it is up to us to cut the trees
       <description>It first selects all messages marked “New” and untags them. Then, it selects all messages marked “Old” but unread and untags them as well. Finally, it marks them all as deleted
 {{ more }}
 {% highlight bash html %} macro index m &amp;ldquo;T~N;WNT~O;WO\CTd&amp;rdquo; &amp;ldquo;mark all messages read&amp;rdquo; {% endhighlight %}
-{% highlight bash html %}  = ; {% endhighlight %}</description>
+{% highlight bash html %} = ; {% endhighlight %}</description>
     </item>
     
     <item>
@@ -2265,7 +2261,7 @@ Five races were scheduled for today but only two circuits of the Supersport clas
       <pubDate>Sun, 12 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2013-05-12-flashed-flos-phone-with-a-cyanogenmod-rom/</guid>
-      <description>After a huge amount of fannying around Flo finally decided to to install a new rom on her HTC Wildfire, we followed the Instructions on this web site wiki.cyanogenmod.org and everything went fairly smoothly. The main reason she wanted to do this was the orignal rom was full of google apps which she didn&amp;rsquo;t use, and the phone was running out of space so she could not install Facebook, and google refuse to allow you to remove their apps.</description>
+      <description>After a huge amount of fannying around Flo finally decided to to install a new rom on her HTC Wildfire, we followed the Instructions on this web site wiki.cyanogenmod.organd everything went fairly smoothly. The main reason she wanted to do this was the orignal rom was full of google apps which she didn&amp;rsquo;t use, and the phone was running out of space so she could not install Facebook, and google refuse to allow you to remove their apps.</description>
     </item>
     
     <item>
@@ -2298,7 +2294,7 @@ First race since BC, dropped on the first lap head wind and very fast start. Kep
 sshfs to mount a remote dir locally
 {{ more }}
 {% highlight bash html linenos %} rsync -azvu &amp;ndash;rsh=&amp;lsquo;ssh -p32&amp;rsquo; basedir/ server2:destdir/ {% endhighlight %}
-{% highlight bash html linenos %} scp -P32  server2:destdir/ {% endhighlight %}
+{% highlight bash html linenos %} scp -P32 server2:destdir/ {% endhighlight %}
 {% highlight bash linenos %} sshfs @:fusermount -u mountpoint {% endhighlight %}</description>
     </item>
     
@@ -2794,7 +2790,7 @@ After showers etc. we went to the Parlour at the Old Cross for tea, first time h
       
       <guid>http://thebluebayou.github.io/2012-07-22-remove-spaces-in-file-names/</guid>
       <description>Removes spaces in file names and replaces them with
-{% highlight bash html %} for file in ; do mv &amp;ldquo;$file&amp;rdquo; echo $file | sed -e &#39;s/ */-/g&#39; -e &#39;s/_-_/-/g&#39;; done {% endhighlight %} or {% highlight bash html %} find . -depth -name &amp;lsquo; *&amp;rsquo; | while IFS= read -r f ; do mv -i &amp;ldquo;$f&amp;rdquo; &amp;ldquo;$(dirname &amp;ldquo;$f&amp;rdquo;)/$(basename &amp;ldquo;$f&amp;rdquo;|tr &amp;lsquo; &amp;rsquo; _)&amp;rdquo; ; done {% endhighlight %}</description>
+{% highlight bash html %} for file in ; do mv &amp;ldquo;$file&amp;rdquo; echo $file | sed -e &#39;s/ */-/g&#39; -e &#39;s/_-_/-/g&#39;; done {% endhighlight %} or {% highlight bash html %} find . -depth -name &amp;lsquo; *&amp;rsquo; | while IFS= read -r f ; do mv -i &amp;ldquo;$f&amp;rdquo; &amp;ldquo;$(dirname &amp;ldquo;$f&amp;rdquo;)/$(basename &amp;ldquo;$f&amp;rdquo;|tr &#39; &#39; _)&amp;rdquo; ; done {% endhighlight %}</description>
     </item>
     
     <item>
@@ -2878,7 +2874,8 @@ Next morning we visited Oakdene met with the Kearneys and Flo’s mum then to Co
       <pubDate>Mon, 11 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2012-06-11-reloading-the-mutt-configuration-file/</guid>
-      <description>I find it a bit annoying that I have to re-enter my password twice every time I (re-)start mutt when I want to update my configuration file. Well, it appears I don&amp;rsquo;t need to be doing restarting mutt. The MuttWiki describes a way to re-load the configuration after mutt is running. Type the following into mutt after you&amp;rsquo;ve changed your muttrc file:  :source /path/to/your/muttrc Note that shell expansions may not work&amp;mdash;you should spell out the full path.</description>
+      <description>I find it a bit annoying that I have to re-enter my password twice every time I (re-)start mutt when I want to update my configuration file. Well, it appears I don&amp;rsquo;t need to be doing restarting mutt. The MuttWiki describes a way to re-load the configuration after mutt is running. Type the following into mutt after you&amp;rsquo;ve changed your muttrc file:
+:source /path/to/your/muttrc Note that shell expansions may not work&amp;mdash;you should spell out the full path.</description>
     </item>
     
     <item>
@@ -3011,7 +3008,7 @@ On sat we rode the club run to Portaferry, I was caught short and stopped but I 
       <pubDate>Thu, 08 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2012-03-08-portable-emacs/</guid>
-      <description>While reading gmane.emacs.help I came accross this post where somebody asked how he could make a portable app out of Emacs&amp;rsquo; Windows version.
+      <description>While reading gmane.emacs.help I came accross this post where somebody asked how he could make a portable app out of Emacs&#39; Windows version.
 So since I&amp;rsquo;m still at my internship (where they use Windows) and just recently obtained an iAudio X5L portable media player which behaves like an USB2 harddisk to the OS I wondered if I could manage to make Emacs portable.
 Short version: I could, the &amp;ldquo;hardest&amp;rdquo; part was in fact not even Emacs related, but my sheer lack of knowledge about Windows batch script.</description>
     </item>
@@ -3032,7 +3029,7 @@ Short version: I could, the &amp;ldquo;hardest&amp;rdquo; part was in fact not e
       
       <guid>http://thebluebayou.github.io/2012-02-22-print-from-mutt/</guid>
       <description>To print from Mutt install enscript and add the following lines to muttrc
-{% highlight bash %} set print=&amp;ldquo;yes&amp;rdquo; set print_split set print_command=&amp;ldquo;enscript &amp;ndash;portrait &amp;ndash;header=&amp;lsquo;%n@%M:%d|%F %C|Page ($%/$=)&amp;rsquo; &amp;ndash;media=A4 &amp;ndash;silent &amp;ndash;encoding=88591 &amp;ndash;pretty-print=mail &amp;ndash;printer=HP-Deskjet-USB&amp;rdquo; set print_decode {% endhighlight %}</description>
+{% highlight bash %} set print=&amp;ldquo;yes&amp;rdquo; set print_split set print_command=&amp;ldquo;enscript &amp;ndash;portrait &amp;ndash;header=&#39;%n@%M:%d|%F %C|Page ($%/$=)&#39; &amp;ndash;media=A4 &amp;ndash;silent &amp;ndash;encoding=88591 &amp;ndash;pretty-print=mail &amp;ndash;printer=HP-Deskjet-USB&amp;rdquo; set print_decode {% endhighlight %}</description>
     </item>
     
     <item>
@@ -3139,7 +3136,7 @@ For what ever reason I thought I would try and get a script to upload this blog 
       <guid>http://thebluebayou.github.io/2012-01-18-kernel-upgrade/</guid>
       <description>emerge -P gentoo-sources to remove oldest kernel before installing latest kernel
 In most cases, temporary files used during compilation will still remain under the appropriate source directory under /usr/src. It is safe to remove these using rm.
-You can also safely delete any modules that were used by this kernel. This can be done by removing the appropriate directories under /lib/modules/ that relate to the kernel versions you are removing. Be careful not to delete modules belonging to kernels that you still use!</description>
+You can also safely delete any modules that were used by this kernel. This can be done by removing the appropriate directories under /lib/modules/that relate to the kernel versions you are removing. Be careful not to delete modules belonging to kernels that you still use!</description>
     </item>
     
     <item>
@@ -3490,21 +3487,21 @@ Galway to Donegal Town via Sligo, where I finally lost patents with Noel who was
     </item>
     
     <item>
-      <title>The Londonderry Arms</title>
-      <link>http://thebluebayou.github.io/2011-06-05-the-londonderry-arms/</link>
-      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://thebluebayou.github.io/2011-06-05-the-londonderry-arms/</guid>
-      <description>Got my coffee and have picked up an American back-packer, Bill, trying to get to Larne on a day when there are no buses from Portrush to Larne&amp;hellip;</description>
-    </item>
-    
-    <item>
       <title>The advance party!</title>
       <link>http://thebluebayou.github.io/2011-06-05-the-advance-party/</link>
       <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2011-06-05-the-advance-party/</guid>
       <description>Enjoying a quick beverage at the open house in Ards with Marty waiting for the others to arrive!</description>
+    </item>
+    
+    <item>
+      <title>The Londonderry Arms</title>
+      <link>http://thebluebayou.github.io/2011-06-05-the-londonderry-arms/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://thebluebayou.github.io/2011-06-05-the-londonderry-arms/</guid>
+      <description>Got my coffee and have picked up an American back-packer, Bill, trying to get to Larne on a day when there are no buses from Portrush to Larne&amp;hellip;</description>
     </item>
     
     <item>
@@ -3606,7 +3603,7 @@ another lovely hostel. Once I get home with some more time I&amp;rsquo;ll add a 
       <pubDate>Fri, 03 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2011-06-03-galway/</guid>
-      <description>John &amp;ldquo;boomerang&amp;rdquo; Brown returned yesterday and lead the willing astray last night in the city&amp;hellip; In bed very late / early depending on your viewpoint! So Noel asked for an early teastop this morning&amp;hellip;
+      <description>John &amp;ldquo;boomerang&amp;rdquo; Brown returned yesterday and lead the willing astray last night in the city&amp;hellip; In bed very late / early depending on your viewpoint****! So Noel asked for an early teastop this morning&amp;hellip;
 Meeting up in Ballyhaunis (starting point for the Tour of Mayo).</description>
     </item>
     
@@ -4196,7 +4193,8 @@ XMTB McConvey Cycles
 Winter League 2010 Ormeau Park
 Race 2 07/03/2010
 Fun 8 laps
-Name Club Time 1. Liam McGreevy Planet X 42.</description>
+Name Club Time
+ Liam McGreevy Planet X 42.</description>
     </item>
     
     <item>

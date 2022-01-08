@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Van on Keith&#39;s Diary and Other Stuff</title>
+    <title>van on Keith&#39;s Diary and Other Stuff</title>
     <link>http://thebluebayou.github.io/tags/van/</link>
-    <description>Recent content in Van on Keith&#39;s Diary and Other Stuff</description>
+    <description>Recent content in van on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Nov 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://thebluebayou.github.io/tags/van/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 30 Nov 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://thebluebayou.github.io/tags/van/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hectic month and piss poor Weather</title>
       <link>http://thebluebayou.github.io/2015-11-30-hectic-month-and-piss-poor-weather/</link>

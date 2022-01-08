@@ -3,7 +3,7 @@
   <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="generator" content="Hugo 0.54.0" />
+  <meta name="generator" content="Hugo 0.89.4" />
 <link rel="stylesheet" href="/css/style.css" />
 <link rel="stylesheet" href="/css/fonts.css" />
   
@@ -46,35 +46,11 @@
 
 <br><br>
 <p>I put the following into ~/.fonts.conf, restarted Xorg, and now everything looks good.</p>
-
 <p>{{ more }}</p>
-
-<p>{% highlight html %}
-&lt;?xml version=&ldquo;1.0&rdquo;?&gt;
-&lt;!DOCTYPE fontconfig SYSTEM &ldquo;fonts.dtd&rdquo;&gt;
-<fontconfig>
-    <match target="font">
-        <edit name="antialias" mode="assign">
-            <bool>true</bool>
-        </edit>
-        <edit name="hinting" mode="assign">
-            <bool>true</bool>
-        </edit>
-        <edit name="rgba" mode="assign">
-            <const>rgb</const>
-        </edit>
-        <edit name="autohint" mode="assign">
-            <bool>false</bool>
-        </edit>
-        <edit name="hintstyle" mode="assign">
-            <const>hintslight</const>
-        </edit>
-        <edit mode="assign" name="lcdfilter">
-            <const>lcddefault</const>
-        </edit>
-    </match>
-</fontconfig>
-{% endhighlight %}</p>
+<p>{% highlight html %}</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 
 
 

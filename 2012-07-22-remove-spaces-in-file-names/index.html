@@ -3,7 +3,7 @@
   <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="generator" content="Hugo 0.54.0" />
+  <meta name="generator" content="Hugo 0.89.4" />
 <link rel="stylesheet" href="/css/style.css" />
 <link rel="stylesheet" href="/css/fonts.css" />
   
@@ -49,13 +49,12 @@
 
 <br><br>
 <p>Removes spaces in file names and replaces them with</p>
-
 <p>{% highlight bash html %}
 for file in <em>; do mv &ldquo;$file&rdquo; <code>echo $file | sed -e 's/  */-/g' -e 's/_-_/-/g'</code>; done
 {% endhighlight %}
 or
 {% highlight bash html %}
-find . -depth -name &lsquo;</em> *&rsquo; | while IFS= read -r f ; do mv -i &ldquo;$f&rdquo; &ldquo;$(dirname &ldquo;$f&rdquo;)/$(basename &ldquo;$f&rdquo;|tr &lsquo; &rsquo; _)&rdquo; ; done
+find . -depth -name &lsquo;</em> *&rsquo; | while IFS= read -r f ; do mv -i &ldquo;$f&rdquo; &ldquo;$(dirname &ldquo;$f&rdquo;)/$(basename &ldquo;$f&rdquo;|tr ' ' _)&rdquo; ; done
 {% endhighlight %}</p>
 
 

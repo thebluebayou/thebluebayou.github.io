@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gentoo on Keith&#39;s Diary and Other Stuff</title>
+    <title>gentoo on Keith&#39;s Diary and Other Stuff</title>
     <link>http://thebluebayou.github.io/tags/gentoo/</link>
-    <description>Recent content in Gentoo on Keith&#39;s Diary and Other Stuff</description>
+    <description>Recent content in gentoo on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Jun 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://thebluebayou.github.io/tags/gentoo/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 15 Jun 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://thebluebayou.github.io/tags/gentoo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The X server will not be able to send the VDPAU driver name to libvdpau</title>
       <link>http://thebluebayou.github.io/2012-06-15-nvidia-vdpau/</link>
@@ -47,7 +43,7 @@
       <guid>http://thebluebayou.github.io/2012-01-18-kernel-upgrade/</guid>
       <description>emerge -P gentoo-sources to remove oldest kernel before installing latest kernel
 In most cases, temporary files used during compilation will still remain under the appropriate source directory under /usr/src. It is safe to remove these using rm.
-You can also safely delete any modules that were used by this kernel. This can be done by removing the appropriate directories under /lib/modules/ that relate to the kernel versions you are removing. Be careful not to delete modules belonging to kernels that you still use!</description>
+You can also safely delete any modules that were used by this kernel. This can be done by removing the appropriate directories under /lib/modules/that relate to the kernel versions you are removing. Be careful not to delete modules belonging to kernels that you still use!</description>
     </item>
     
   </channel>

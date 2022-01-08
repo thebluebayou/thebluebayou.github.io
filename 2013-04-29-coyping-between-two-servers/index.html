@@ -3,7 +3,7 @@
   <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="generator" content="Hugo 0.54.0" />
+  <meta name="generator" content="Hugo 0.89.4" />
 <link rel="stylesheet" href="/css/style.css" />
 <link rel="stylesheet" href="/css/fonts.css" />
   
@@ -45,22 +45,18 @@
 
 
 <br><br>
-<p>Copy  a file or folders between two Servers. Rsync copies folders scp files<br />
+<p>Copy  a file or folders between two Servers. Rsync copies folders scp files<br>
 sshfs to mount a remote dir locally</p>
-
 <p>{{ more }}</p>
-
 <p>{% highlight bash html linenos %}
 rsync -azvu &ndash;rsh=&lsquo;ssh -p32&rsquo; basedir/ server2:destdir/
 {% endhighlight %}</p>
-
 <p>{% highlight bash html linenos %}
-scp -P32 <file>  server2:destdir/
+scp -P32 <!-- raw HTML omitted -->  server2:destdir/
 {% endhighlight %}</p>
-
 <p>{% highlight bash linenos %}
-sshfs <account>@<ip>:<remote folder full path>   <local folder path>
-fusermount -u mountpoint <to unmount>
+sshfs <!-- raw HTML omitted -->@<!-- raw HTML omitted -->:<!-- raw HTML omitted -->   <!-- raw HTML omitted -->
+fusermount -u mountpoint <!-- raw HTML omitted -->
 {% endhighlight %}</p>
 
 

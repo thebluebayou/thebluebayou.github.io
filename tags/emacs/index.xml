@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emacs on Keith&#39;s Diary and Other Stuff</title>
+    <title>emacs on Keith&#39;s Diary and Other Stuff</title>
     <link>http://thebluebayou.github.io/tags/emacs/</link>
-    <description>Recent content in Emacs on Keith&#39;s Diary and Other Stuff</description>
+    <description>Recent content in emacs on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Mar 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://thebluebayou.github.io/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 08 Mar 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://thebluebayou.github.io/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Portable Emacs </title>
       <link>http://thebluebayou.github.io/2012-03-08-portable-emacs/</link>
       <pubDate>Thu, 08 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://thebluebayou.github.io/2012-03-08-portable-emacs/</guid>
-      <description>While reading gmane.emacs.help I came accross this post where somebody asked how he could make a portable app out of Emacs&amp;rsquo; Windows version.
+      <description>While reading gmane.emacs.help I came accross this post where somebody asked how he could make a portable app out of Emacs&#39; Windows version.
 So since I&amp;rsquo;m still at my internship (where they use Windows) and just recently obtained an iAudio X5L portable media player which behaves like an USB2 harddisk to the OS I wondered if I could manage to make Emacs portable.
 Short version: I could, the &amp;ldquo;hardest&amp;rdquo; part was in fact not even Emacs related, but my sheer lack of knowledge about Windows batch script.</description>
     </item>

@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vim on Keith&#39;s Diary and Other Stuff</title>
+    <title>vim on Keith&#39;s Diary and Other Stuff</title>
     <link>http://thebluebayou.github.io/tags/vim/</link>
-    <description>Recent content in Vim on Keith&#39;s Diary and Other Stuff</description>
+    <description>Recent content in vim on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Aug 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://thebluebayou.github.io/tags/vim/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 05 Aug 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://thebluebayou.github.io/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Browsing man pages in vim</title>
       <link>http://thebluebayou.github.io/2013-08-05-browsing-man-pages-in-vim/</link>
